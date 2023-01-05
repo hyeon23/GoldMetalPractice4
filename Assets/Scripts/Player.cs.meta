@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe87056d676c8fa41872df662d7f8f36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - anime: {instanceID: 0}
+  - bulletObjA: {fileID: 8713188921450494710, guid: fba3744378b88c84ebfc0165c6c915c5, type: 3}
+  - bulletObjB: {fileID: 7191173263215931546, guid: 631fe21509ef8e542a16c7908b59b58e, type: 3}
+  - manager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
